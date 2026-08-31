@@ -37,16 +37,40 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
 
-# CIRCUIT DIAGRAM:
-![5](https://github.com/user-attachments/assets/a957b59e-6864-4cd1-a7e4-0d18ad8c32c6)
+# CIRCUIT DIAGRAM :
 
-# OBSERVATIONS:
-![5](https://github.com/user-attachments/assets/97fbf49b-6ff3-4582-9816-06e05ac7a5de)
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/07ba7b74-c24a-4cd9-af55-27cdcf75585c" />
 
-# GRAPH:
-![5G](https://github.com/user-attachments/assets/1fdd22d4-3d49-40fe-87a1-22c31cb431ec)
+# TABULATION :
 
+## line regulator :
 
+<img width="1280" height="543" alt="image" src="https://github.com/user-attachments/assets/861a1380-1c18-42ab-bf44-d4360fec0790" />
+
+## load regulator :
+
+<img width="1226" height="571" alt="image" src="https://github.com/user-attachments/assets/e07f04ee-d8db-4adc-bd57-32e894ca13e1" />
+
+# MODEL GRAPH :
+
+## line regulator :
+
+<img width="1258" height="653" alt="image" src="https://github.com/user-attachments/assets/1e82adab-dade-429d-8d4f-db4ac1bea3c2" />
+
+## load regulator :
+
+<img width="1173" height="653" alt="image" src="https://github.com/user-attachments/assets/6f4f650c-6ad8-4045-a9ac-e1be4ca51213" />
+
+# PRECAUTIONS:
+
+1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
+2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
+
+3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+RESULT:
+The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
 
 # RESULT:
+
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
+
